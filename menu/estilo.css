@@ -1,0 +1,39 @@
+h1{
+    font-size: 40px;
+    color: white;
+    background-color: darkred;
+    border-style: solid;
+    border-color: red;
+    border-width: 5px;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h4{
+    font-size: 20px;
+    color:white;
+    background-color: rgb(80, 70, 70);
+    border-color: red;
+    border-width: 2px;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 50x;
+    padding: 5px;
+}
+
+/* menuuuu */
+
+#menu ul{
+    padding: 10px;
+    margin: 0;
+    background-color: 2b1010;
+    list-style: none;
+}
+
+#manu ul li{
+    display:10px 30px;
+    text-decoration: none;;
+
+}
